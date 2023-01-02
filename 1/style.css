@@ -42,9 +42,3 @@ h1.cem {
 h1.days {
 	font-size: 70px;
 }
-
-div.center {
-	display: collumn;
-	display-collumn: repeat(3, 30px);
-}
-
